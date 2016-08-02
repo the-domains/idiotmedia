@@ -1,4 +1,3 @@
-layout_spectrum: 0.807502216193825
 typography_spectrum: 0.2949807387776673
 color:
   brandStrength: 0.48891365923918784
@@ -11,5 +10,9 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.807502216193825
+author:
+  name: Johan Visser
+  email: jv@idiotmedia.com
 name: Idiotmedia
 title: There's more than meets the eye
